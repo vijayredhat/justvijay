@@ -13,7 +13,11 @@ Build and run using Docker Compose:
 	$ cd dockercloud-hello-world
 	$ docker-compose up
 
+<<<<<<< HEAD
 
+=======
+#test
+>>>>>>> d1d0873195050cac003be1317d54fe397d741db5
 ## Deploying to Docker Cloud
 
 [Install the Docker Cloud CLI](https://docs.docker.com/docker-cloud/tutorials/installing-cli/)
